@@ -10,7 +10,7 @@ def calculate_total_tax_paid(car_price: float, trade_in_amount: float, tax_rate:
 
 def main() -> None:
     st.set_page_config(page_title="Car Loan Calculator")
-    st.title("Car Loan Calculator")
+    st.title("Car Loan Calculator Project")
 
     # First set of columns
     col1, col2 = st.columns(2)
