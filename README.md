@@ -8,4 +8,4 @@ This application is a car loan calculator written in Python. It uses Pandas to s
 - Utilizes Matplotlib for additional data visualizations.
 - Utilizes Streamlit to provide the user with a UI for an interactive and intuitive experience.
 
-## Project is done by Santhosh
+## Project is done by Santhosh Reddy
